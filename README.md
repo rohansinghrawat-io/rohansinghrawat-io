@@ -1,16 +1,53 @@
-Senior Platform Developer at [DTDC](https://www.dtdc.in). New Delhi.
+<div align="center">
 
-I build Laravel platforms that have to stay correct while people are using them. The one in front of me is a live rally and treasure-hunt system. Organizers set the course, marshals run checkpoints, riders stay on the map, and the results, credits, and payments have to match what happened on the ground.
+<img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,nodejs,ts,nextjs,react,vue,mysql,postgres,mongodb,redis,docker&perline=7" alt="PHP, Laravel, Python, FastAPI, Node.js, TypeScript, Next.js, React, Vue, MySQL, PostgreSQL, MongoDB, Redis, Docker" />
 
-| | |
-| --- | --- |
-| **APIs** | PHP 8 and Laravel. One response contract. JWT sessions. A route group for each role: owner, organizer, manager, staff, marshal, rider. |
-| **Data** | MySQL holds the record. Redis holds live GPS. Queues take the work that should not sit inside the request. |
-| **Realtime** | A Node WebSocket service runs beside the API for live tracking and SOS. |
-| **Money** | Razorpay and PayPal, and the credit ledger organizers spend from. |
-| **Consoles** | Next.js and TypeScript for the owner and organizer panels. Older AngularJS screens move when that workflow is ready. |
-| **Shape of the code** | Thin controllers. Rules in services. Validation and status codes in one place. Docs change in the same commit as the behavior. |
+# Rohan Singh
 
-`PHP` · `Laravel` · `MySQL` · `Redis` · `Node` · `Next.js` · `TypeScript` · `Docker`
+**Senior Platform Developer** at [DTDC](https://www.dtdc.in) · New Delhi
+
+Platform engineering in PHP and Python. Service APIs, data, realtime, auth, and operator consoles.
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Languages
+PHP 8 · Python 3 · TypeScript · JavaScript · SQL
+
+### Services
+Laravel · FastAPI · Node.js  
+REST and GraphQL · JWT, OAuth, and OTP  
+Queues, workers, and WebSockets beside the request
+
+### Data
+MySQL · PostgreSQL · MongoDB  
+Redis · Elasticsearch · Kafka
+
+</td>
+<td width="50%" valign="top">
+
+### Interfaces
+Next.js · React · Vue · Tailwind · Angular
+
+### Platform
+Docker · Nginx · Linux  
+AWS and object storage · Firebase and push  
+Payment gateways · PDF and spreadsheet output
+
+### Practice
+Pytest · Pest · PHPUnit  
+Pydantic · one response contract · role-scoped routes  
+Thin handlers. Rules live in services.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 [LinkedIn](https://www.linkedin.com/in/rohan-singh-918174191)
+
+</div>
