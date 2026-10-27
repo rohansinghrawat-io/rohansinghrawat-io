@@ -1,6 +1,6 @@
-Backend engineer at [Instantpay](https://www.instantpay.in). New Delhi.
+Senior Platform Developer at [DTDC](https://www.dtdc.in). New Delhi.
 
-I build Laravel APIs for a live rally and treasure-hunt platform. Organizers set the course, marshals run checkpoints, riders stay on the map, and the results, credits, and payments have to match what happened on the ground.
+I build Laravel platforms that have to stay correct while people are using them. The one in front of me is a live rally and treasure-hunt system. Organizers set the course, marshals run checkpoints, riders stay on the map, and the results, credits, and payments have to match what happened on the ground.
 
 | | |
 | --- | --- |
